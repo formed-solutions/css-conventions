@@ -1,0 +1,24 @@
+{
+  "name": "css-conventions",
+  "version": "0.1.0",
+  "description": "Conventions for writing consistent CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formed-solutions/css-conventions.git"
+  },
+  "keywords": [
+    "CSS",
+    "style",
+    "guide"
+  ],
+  "author": "Christopher DeFelice <chris@formed.solutions>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/formed-solutions/css-conventions/issues"
+  },
+  "homepage": "https://github.com/formed-solutions/css-conventions#readme"
+}
