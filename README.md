@@ -52,7 +52,7 @@ Always use the `.scss` file extension and not the `.sass` on projects that are l
 - Avoid specifying units for zero-values, e.g. `padding: 0`.
 - Include a space after each comma in comma-separated function values or properties.
 - <sup>*</sup>Place the closing brace of a ruleset in the same column as the first character of the ruleset.
-- Each ruleset should seperated by one (1) blank line.
+- Each ruleset should be seperated by one (1) blank line.
 
 Example:
 
