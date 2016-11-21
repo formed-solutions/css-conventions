@@ -4,8 +4,8 @@ Conventions for writing consistent CSS for **Formed** products and projects.
 
 The main goals of this document is to provide:
 
-  - standard of code quality across the framework;
-  - provide consistency across framework;
+  - standard of code quality across project;
+  - provide consistency across project;
   - keep styles readable;
   - keep styles scalable;
 
